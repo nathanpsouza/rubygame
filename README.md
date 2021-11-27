@@ -1,4 +1,13 @@
-=== Executando o projeto:
+# Ruby Game
+## Executando o projeto:
+
+### Executando com o script utilitário:
+
+```
+./bin/exec
+```
+
+### Executando com o docker:
 
 para obter um interpretador do ruby no diretório atual, execute:
 
